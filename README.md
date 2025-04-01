@@ -1,9 +1,5 @@
 # Digital-synthesiser-musical-instrument-TMP2
-
-# Music Instrument - Synthesizer
-
 ## Project for Microprocessor Technology 2
-
 ### Author
 Bartłomiej Kisielewski
 
